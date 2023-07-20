@@ -1,0 +1,92 @@
+/*===========================
+*	[Table of contents]
+* ===========================
+*
+*	01. Body = body
+*	02. Preloader = .preloader
+*	03. Header = #header-area
+*	04. HeaderBottom = #header-bottom
+*	05. Main Menu = .off-canvas-menu
+*	06. About Area = #about-area
+*	07. Education Area = #education-area
+*	08. Experience Area = #experience-area
+*	09. Skill Area = #pro-skills-area
+*	10. Portfolio Area = #portfolio-area
+*	11. Contact Area = #contact-area
+*	12. Footer = #footer-area
+*	
+*	And More Css /css/page.css File Include
+*
+* ============================*/
+
+/*==========================================
+    Theme Fonts
+==========================================*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i');
+
+/*==========================================
+    Include All Css File
+==========================================*/
+
+/*--=== Reset Css ===-*/
+
+@import url('css/normalize.css');
+
+/*--=== Vegas Css ===-*/
+
+@import url('css/plugins/vegas.css');
+
+/*--=== Skillsbar ===-*/
+
+@import url('css/plugins/skills.css');
+
+/*--=== Timeline ===-*/
+
+@import url('css/plugins/timeline.css');
+
+/*--=== Animate ===-*/
+
+@import url('css/plugins/animate.css');
+
+/*--=== Hover Animation ===-*/
+
+@import url('css/plugins/hover-min.css');
+
+/*--=== Fontawesome icon ===-*/
+
+@import url('css/font-awesome.min.css');
+
+/*--=== Owl carousel ===-*/
+
+@import url('css/plugins/owl.carousel.min.css');
+
+/*--=== Magnific PopUp ===-*/
+
+@import url('css/plugins/magnific-popup.css');
+
+/*--=== Bootstrap ===-*/
+
+@import url('css/bootstrap.min.css');
+
+/*--=== Author Custom Css ===-*/
+
+@import url('css/main.css');
+
+/*--=== Responsive Css ===-*/
+
+@import url('css/responsive.css');
+
+.profile-menu li .ordinal {
+    vertical-align:super;
+    color: #fff;
+    font-size: 13px;
+    margin-bottom: 16px;
+    font-weight: normal;
+}
+.profile-menu li a{
+    color: #fff;
+    margin-bottom: 16px;
+    font-weight: normal;
+}
