@@ -1,1 +1,0 @@
-# shahakki.github.io
