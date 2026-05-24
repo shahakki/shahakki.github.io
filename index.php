@@ -85,7 +85,7 @@
                                 <div class="header-bottom">
                                     <h1>Hello!</h1>
                                     <h3><span>I'm</span> Ankit Shah</h3>
-                                    <p>Front-end & Back-end Developer</p>
+                                    <p>Fullstack Developer</p>
                                 </div>
                             </div>
                         </div>
