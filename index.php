@@ -117,7 +117,7 @@
                             <h2>About Me</h2>
                         </div>
 
-                        <p>Hello! I’m Ankit Shah. Front-end & Back-end Developer with over 6 years of experience. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced Laravel, Wordpress, React JS, HTML5, CSS3, JavaScript, jQuery. Strong background in management and leadership.</p>
+                        <p>Hello! I’m Ankit Shah. Fullstack Developer with over 10 years of experience. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced Laravel, Wordpress, React JS, HTML5, CSS3, JavaScript, jQuery. Strong background in management and leadership.</p>
 
                         <ul class="profile-menu">
                             <li><span>Name: </span> Ankit Shah</li>
